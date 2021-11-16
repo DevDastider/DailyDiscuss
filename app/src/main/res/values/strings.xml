@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DailyDiscuss</string>
+    <string name="post_hint">What do you want to talk about?</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="post">POST</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="login_as_admin">Login as Admin</string>
+    <string name="add_topic_title">Add topic title</string>
+</resources>

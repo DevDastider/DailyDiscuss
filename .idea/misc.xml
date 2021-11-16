@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/851536/AndroidStudioProjects/DailyDiscuss/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.18796296296296297" />
+        <entry key="..\:/Users/851536/AndroidStudioProjects/DailyDiscuss/app/src/main/res/layout/activity_create_post.xml" value="0.1" />
+        <entry key="..\:/Users/851536/AndroidStudioProjects/DailyDiscuss/app/src/main/res/layout/activity_create_topic.xml" value="0.31057268722466963" />
+        <entry key="..\:/Users/851536/AndroidStudioProjects/DailyDiscuss/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/851536/AndroidStudioProjects/DailyDiscuss/app/src/main/res/layout/activity_sign_in.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/851536/AndroidStudioProjects/DailyDiscuss/app/src/main/res/layout/activity_topic.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/851536/AndroidStudioProjects/DailyDiscuss/app/src/main/res/layout/fragment_admin_login.xml" value="0.1796875" />
+        <entry key="..\:/Users/851536/AndroidStudioProjects/DailyDiscuss/app/src/main/res/layout/item_post.xml" value="0.1" />
+        <entry key="..\:/Users/851536/AndroidStudioProjects/DailyDiscuss/app/src/main/res/layout/item_topic.xml" value="0.1796875" />
+        <entry key="..\:/Users/851536/AndroidStudioProjects/DailyDiscuss/app/src/main/res/menu/menu_sign_out.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

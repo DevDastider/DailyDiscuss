@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911435181774",
+    "project_id": "dailydiscuss-34df2",
+    "storage_bucket": "dailydiscuss-34df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911435181774:android:76d578bc57e6bfd27faa9f",
+        "android_client_info": {
+          "package_name": "com.sgd.project.dailydiscuss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911435181774-932he4kd94mh2rkggs7ncmh2oj06r0ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sgd.project.dailydiscuss",
+            "certificate_hash": "16697655fdf13a8701d4b5e843cda1bb5f0101e7"
+          }
+        },
+        {
+          "client_id": "911435181774-p03jkud3v7bmo4oqs96d7967bl49v11d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWVPu93PTK03DYl7fByXWL7BMGmvPpv5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911435181774-p03jkud3v7bmo4oqs96d7967bl49v11d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
