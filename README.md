@@ -8,3 +8,15 @@ The app comes with 2 types of user interface:
 - Used google authentication for users login-logout purposes.
 - Users can also like each-other's opinion.
 - Cloud Firestore is used as the backend NoSQL database to store user details and their chats on each topic.
+
+#### Design of the app:
+
+![App design](https://github.com/DevDastider/DailyDiscuss/blob/1bf132f10e635967b10cf3147f923b061d0af1a9/assets/DailyDiscuss%20App%20Design.JPG)
+
+#### Some glimpses of the app:
+
+![Home Screen](https://github.com/DevDastider/DailyDiscuss/blob/master/assets/DailyDiscuss%20Home%20Screen.JPG)
+![Admin login](assets/adminLogin.JPG)
+![Topic screen](https://github.com/DevDastider/DailyDiscuss/blob/master/assets/Topic%20Screen.JPG)
+![Chat Section](https://github.com/DevDastider/DailyDiscuss/blob/master/assets/DailyDiscuss%20Chat%20Section.JPG)
+![Post screen](assets/Post.JPG)
